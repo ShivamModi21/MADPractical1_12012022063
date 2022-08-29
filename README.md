@@ -36,6 +36,9 @@
 ![Screenshot 2022-08-23 230432](https://user-images.githubusercontent.com/110375632/186229413-f62ebe50-6dbe-4c6f-85d9-3432048fd575.png)
 ![Screenshot 2022-08-23 230454](https://user-images.githubusercontent.com/110375632/186229422-c6ff4c00-0c3d-4cc7-afe7-21a57b55ed6b.png)
 ![Screenshot 2022-08-23 230512](https://user-images.githubusercontent.com/110375632/186229429-db96456a-d1c6-441c-bfcd-5a31897e0d76.png)
+
+9.Find the max number from ArrayList
+
 ![Screenshot 2022-08-23 230931](https://user-images.githubusercontent.com/110375632/186229430-d756600e-90ba-4495-8b78-e380049935ae.png)
 ![Screenshot 2022-08-23 230948](https://user-images.githubusercontent.com/110375632/186229443-0bda18dd-d7f6-406c-9cdf-783c20dc7a97.png)
 ![Screenshot 2022-08-23 231555](https://user-images.githubusercontent.com/110375632/186229444-c2ed61f9-cb5d-4bc1-bcab-3ec1e3d6ac89.png)
