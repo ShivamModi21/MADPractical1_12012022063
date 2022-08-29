@@ -13,7 +13,10 @@
 ![Screenshot 2022-08-23 225030](https://user-images.githubusercontent.com/110375632/186229351-56fcc546-03c4-47a5-a923-d4fcaff0944f.png)
 
 4.Find the number is odd or even by using Control Flow inside println() method
+
 ![Screenshot 2022-08-23 225351](https://user-images.githubusercontent.com/110375632/186229358-28b7f783-84f7-4708-aee6-61af273da0aa.png)
+
+5.Display month name using When
 ![Screenshot 2022-08-23 225611](https://user-images.githubusercontent.com/110375632/186229367-cd9bfc7d-54f4-4282-a776-b82b533f1b59.png)
 ![Screenshot 2022-08-23 225640](https://user-images.githubusercontent.com/110375632/186229375-b862b168-640f-4ceb-9600-0270283e17e3.png)
 ![Screenshot 2022-08-23 225659](https://user-images.githubusercontent.com/110375632/186229383-7f26e7d0-5b10-4dc5-85a6-5e770d17cf88.png)
