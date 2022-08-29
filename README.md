@@ -23,8 +23,12 @@
 ![Screenshot 2022-08-23 225659](https://user-images.githubusercontent.com/110375632/186229383-7f26e7d0-5b10-4dc5-85a6-5e770d17cf88.png)
 
 6. By using a user defined function perform all arithmetic operations.
+
 ![Screenshot 2022-08-23 225920](https://user-images.githubusercontent.com/110375632/186229391-87356c90-58bb-4012-b78a-1880adccb8b0.png)
 ![Screenshot 2022-08-23 225938](https://user-images.githubusercontent.com/110375632/186229398-e520d75b-f7f1-49a7-b16b-07bd10c121de.png)
+
+7.Find the factorial of number by recursion. Explain "tailrec" keyword.
+
 ![Screenshot 2022-08-23 230239](https://user-images.githubusercontent.com/110375632/186229414-6b383517-c855-4c59-8338-026b93101ce0.png)
 ![Screenshot 2022-08-23 230432](https://user-images.githubusercontent.com/110375632/186229413-f62ebe50-6dbe-4c6f-85d9-3432048fd575.png)
 ![Screenshot 2022-08-23 230454](https://user-images.githubusercontent.com/110375632/186229422-c6ff4c00-0c3d-4cc7-afe7-21a57b55ed6b.png)
