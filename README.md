@@ -41,9 +41,14 @@
 
 ![Screenshot 2022-08-23 230931](https://user-images.githubusercontent.com/110375632/186229430-d756600e-90ba-4495-8b78-e380049935ae.png)
 ![Screenshot 2022-08-23 230948](https://user-images.githubusercontent.com/110375632/186229443-0bda18dd-d7f6-406c-9cdf-783c20dc7a97.png)
+
+10. Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner, milesDrive. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
+
 ![Screenshot 2022-08-23 231555](https://user-images.githubusercontent.com/110375632/186229444-c2ed61f9-cb5d-4bc1-bcab-3ec1e3d6ac89.png)
 ![Screenshot 2022-08-23 231608](https://user-images.githubusercontent.com/110375632/186229446-1b455290-6cff-41c3-88f0-57858d307c7c.png)
 ![Screenshot 2022-08-23 231632](https://user-images.githubusercontent.com/110375632/186229453-eeab7ab7-9210-4194-8e4a-dae22712327b.png)
+
+11. Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class Matrix & operator overloading. Overload toString() function in Matrix class.
 ![Screenshot 2022-08-23 231819](https://user-images.githubusercontent.com/110375632/186229466-37449bd6-652d-4348-9a6e-7779fda18163.png)
 ![Screenshot 2022-08-23 231834](https://user-images.githubusercontent.com/110375632/186229471-6711dc87-02cf-4a8f-9337-8368e94a81f1.png)
 ![Screenshot 2022-08-23 231855](https://user-images.githubusercontent.com/110375632/186229483-8c602d0d-a15a-4b0f-b7f3-3d0fb0b69d07.png)
